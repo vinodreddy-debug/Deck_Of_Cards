@@ -1,0 +1,7 @@
+C:\Users\vchinnamoramreddi\source\repos\Deck_Of_Cards\Deck_Of_Cards\bin\Debug\Deck_Of_Cards.exe.config
+C:\Users\vchinnamoramreddi\source\repos\Deck_Of_Cards\Deck_Of_Cards\bin\Debug\Deck_Of_Cards.exe
+C:\Users\vchinnamoramreddi\source\repos\Deck_Of_Cards\Deck_Of_Cards\bin\Debug\Deck_Of_Cards.pdb
+C:\Users\vchinnamoramreddi\source\repos\Deck_Of_Cards\Deck_Of_Cards\obj\Debug\Deck_Of_Cards.csprojAssemblyReference.cache
+C:\Users\vchinnamoramreddi\source\repos\Deck_Of_Cards\Deck_Of_Cards\obj\Debug\Deck_Of_Cards.csproj.CoreCompileInputs.cache
+C:\Users\vchinnamoramreddi\source\repos\Deck_Of_Cards\Deck_Of_Cards\obj\Debug\Deck_Of_Cards.exe
+C:\Users\vchinnamoramreddi\source\repos\Deck_Of_Cards\Deck_Of_Cards\obj\Debug\Deck_Of_Cards.pdb
